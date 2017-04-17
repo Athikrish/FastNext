@@ -1,3 +1,3 @@
 # FastNext
 
-Tango with Jango
+Tango with Django
